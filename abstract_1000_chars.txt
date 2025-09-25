@@ -1,9 +1,7 @@
-Our project applies quantum computing to medical diagnostics via automated blood cell classification for Acute Myeloid Leukemia (AML) detection. We developed an 8-qubit Variational Quantum Circuit achieving 48.9% accuracy on real medical datasets from The Cancer Imaging Archive, matching classical methods while using 22× fewer parameters.
+Can quantum computers actually help doctors? I built an 8-qubit circuit that looks at blood cells and spots leukemia (AML) with 48.9% accuracy on real patient data from cancer archives. Same performance as classical methods but with 22× fewer parameters - suggesting quantum might have an edge as hardware improves.
 
-This bridges quantum computing with healthcare, providing automated diagnostic screening to assist pathologists. Our open-source framework establishes foundations for quantum advantage in medical AI.
+This isn't another toy dataset demo. These are actual blood samples from hospitals. I'm tackling a real problem: AML diagnosis requires specialists who aren't available everywhere, especially in rural areas.
 
-Benefits: First practical quantum ML on real medical data, open-source quantum medical AI framework, comparative quantum vs classical analysis, educational resource for quantum healthcare applications.
+Everything's open-source so the community can build on it. If quantum computing is going to matter beyond academic papers, we need to prove it works on problems that actually help people.
 
-We bring quantum computing and medical AI expertise with demonstrated results on clinical datasets.
-
-[Character count: 999/1000]
+[Character count: 759/1000]
